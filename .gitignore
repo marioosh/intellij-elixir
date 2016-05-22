@@ -26,3 +26,4 @@ build/
 jps-shared/build/
 jps-builder/build/
 .gradle/
+gradle/
