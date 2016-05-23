@@ -76,7 +76,7 @@ project(':jps-builder') {
       resources.srcDir 'res'
     }
     test {
-     java.srcDir 'test'
+     java.srcDir 'tests'
     }
   }
   dependencies { 
